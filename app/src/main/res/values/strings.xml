@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Quick Mask VPN</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="help">Faq</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+
+    <string name="format_ip_address">%1$s:%2$d</string>
+    <string name="format_ping">Ping: %s ms</string>
+    <string name="format_speed">%s</string>
+
+    <!--    Drawer Items Strings-->
+    <string name="drawer_premium_text">PREMIUM</string>
+    <string name="drawer_share_text">TELL YOUR FRIEND</string>
+    <string name="drawer_rate_text">RATE US</string>
+    <string name="drawer_about_text">ABOUT</string>
+    <string name="drawer_policy_text">PRIVACY POLICY</string>
+    <string name="drawer_faq_text">FAQs</string>
+
+
+    <string name="app_version_text" translatable="false">Version 1.0.0</string>
+    <string name="about_app_text" translatable="false">You are using Quick Mask VPN build v1.0.0, Enjoy unlimited bandwidth with stable connection and a lot of servers to choose from. No limits, No restrictions</string>
+
+    <string name="app_name_premium">Quick Mask VPN Premium</string>
+    <string name="privacy_policy_title" translatable="false">Privacy Policy</string>
+    <string name="unlimited_text">Unlimited</string>
+    <string name="secure_text">Secure</string>
+    <string name="support_text">Support</string>
+    <string name="no_ads_text">No Ads</string>
+    <string name="change_text">Change</string>
+    <string name="disconnect_text">Disconnect</string>
+    <string name="download_text">DOWNLOAD</string>
+    <string name="dummy_ip_text">222.432.00.32</string>
+    <string name="dummy_time_text">00:03:32</string>
+    <string name="dummy_your_ip_text">Your IP : </string>
+    <string name="go_premium_text">Go to Premium</string>
+    <string name="not_connected_text">Not Connected</string>
+    <string name="start_text">START</string>
+    <string name="upload_text">UPLOAD</string>
+    <string name="subscription_text">SUBSCRIPTION</string>
+    <string name="status_text">Status : </string>
+    <string name="select_server_text">Select Server</string>
+    <string name="rate_app_text">RATE THIS APP</string>
+    <string name="feedback_text">Feedback</string>
+    <string name="content_text">Content</string>
+    <string name="zero_text">0.0</string>
+    <string name="speed_text">Speed</string>
+    <string name="tcp_text">TCP</string>
+    <string name="ping_text">Ping</string>
+    <string name="submit_text">Submit</string>
+    <string name="you_are_connected_text">You are Connected</string>
+    <string name="connection_status_text">Connection Status</string>
+    <string name="zero_duration_text">Duration: 00:00:00</string>
+    <string name="packet_received_text">Packet Received:</string>
+    <string name="no_thanks_text">No Thanks</string>
+    <string name="restore_purchase_text">Restore Purchase</string>
+    <string name="byte_in_text">Bytes In: </string>
+    <string name="byte_out_text">Bytes OUT: </string>
+    <string name="country_name_text">Country Name</string>
+    <string name="choose_location_text">choose your location</string>
+    <string name="default_server_text">Server Default Icon</string>
+    <string name="feedback_hint_text">Suggest us what went wrong and we\'ll work on it.</string>
+
+    <string name="country_name">No Server Selected</string>
+    <string name="IP_address">Server IP Address</string>
+
+    <string name="one_month_text">1 Month</string>
+    <string name="three_months_text">3 Months</string>
+    <string name="one_year_text">1 Year</string>
+
+    <!--rating dialog-->
+    <string name="feedback_email_subject" translatable="false">Quick Mask VPN</string>
+
+    <string name="rating_promote">We are working hard for a better user experience. \nWe\'d greatly appreciate if you can rate us.</string>
+    <string name="rating_title_1">Oh, no!</string>
+    <string name="rating_title_2">We like you too!</string>
+    <string name="rating_text_1">Please leave us some feedback.</string>
+    <string name="rating_text_4">Thanks for your feedback.</string>
+    <string name="rating_text_5">The best we can get :)</string>
+    <!--rating dialog-->
+
+    <string-array name="faq_questions">
+        <item>Why I need a VPN?</item>
+        <item>Is it safe?</item>
+        <item>How to use Quick Mask VPN?</item>
+        <item>How to disconnect Quick Mask VPN?</item>
+        <item>Can\’t connect, not stable or speed is slow.</item>
+        <item>How to switch server location?</item>
+        <item>Can\’t find the server you want?</item>
+        <item>Why can\'t I use Internet after connection established?</item>
+        <item>How to disable battery optimization for Quick Mask VPN?</item>
+        <item>How to cancel the subscription in Google play?</item>
+        <item>Can I get refund?</item>
+    </string-array>
+
+    <string-array name="faq_answers">
+        <item>VPN is virtual private network. It allows you to stay private, stay secure, and access any online blocked content you want, no matter where you from.</item>
+        <item>We use SSL to encrypt your internet data. Your data is undecipherable to prying eyes while in route. Moreover, we do not collect, log, store, share any data log belonging to users, and please feel safe to use our product.</item>
+        <item>Click the \"Start\" button on the middle place of the home page. Then please “Trust this application” if your device asks for this permission.</item>
+        <item>Click the same connect button on the home page to disconnect from VPN server.</item>
+        <item>Connection problem is affected by many factors, please update to the latest version, refresh the server list and connect to the top server for few times. If it still does not work for you, please contact us via suraj@lostpioneer.co and provide us with your country and network provider name.</item>
+        <item>Choose the location you want in the server list, then VPN will connect to the location you click.</item>
+        <item>Please contact and provide us the detail website address that you want to unblock via suraj@lostpioneer.co We will collect your feedback and improve our product.</item>
+        <item>First of all, check your network connection. Then make sure you\'ve disable battery optimization for Quick Mask VPN in android\'s battery settings.</item>
+        <item>In most Android devices, Open Settings > Battery > Battery Optimization > Select all apps in drop down menu. Find Quick Mask VPN and set it "Don\'t optimize".In Huawei devices, Open Setting > Battery > Launch, Find Quick Mask VPN in the apps list,switch off to "Manage manually", enable "Auto Lunch" and "Run in background". Or you can find battery setting in "Protected Apps".In Samsung devices, Open settings > Battery > App Power Saving > Details, find Quick Mask VPN in the apps list and disable it.In other devices, you may find it in Setting > Battery > as "Background activity" or "Protected Apps"</item>
+        <item>Subscriptions on Google Play renew automatically unless you unsubscribe, if you want to unsubscribe, please open Google Play Store, tap Menu-Subscriptions-Tap thesubscription you want to cancel-Tap Cancel subscription. Check the details here: https://support.google.com/googleplay/answer/2476088</item>
+        <item>Not cancelling your subscription before the trial period ends will not be refunded. Check the details here: https://support.google.com/googleplay/answer/2476088</item>
+    </string-array>
+
+    <string name="disconnect_first">In order to change the server, please disconnect the VPN first</string>
+    <string name="share_app_text" translatable="false">Check this awesome free VPN. You can unblock any website and enjoy tons of free server, Download now Quick Mask VPN</string>
+    <string name="share_msg" translatable="false">Check this awesome free VPN. You can unblock any website and enjoy tons of free server, Download now Quick Mask VPN</string>
+
+    <string name="info_dialog_title">Credits</string>
+    <string name="info_dialog_details">All of these servers are being provided by the VPN gate project and they are offering their service free of charge. You can read more about the VPN gate project at <a href="https://www.vpngate.net/en/">https://www.vpngate.net/en/</a></string>
+
+
+    <!--Fields needed to be replaced by user-->
+    <!--admob ids-->
+    <string name="admob_app_id">ca-app-pub-2973301674025403~4521511974</string>
+    <string name="admob_interstitial_id">ca-app-pub-2973301674025403/4813704750</string>
+    <string name="admob_banner_id">ca-app-pub-2973301674025403/8894767605</string>
+
+    <!--facebook ids-->
+    <string name="facebook_interstitial_id">Your Facebook Interstitial Ad Id</string>
+    <string name="facebook_native_banner_id">Your Facebook Native Banner Ad Id</string>
+
+    <string name="developers_email" translatable="false">suraj@lostpioneer.co</string>
+    <string name="privacy_policy_link" translatable="false">https://www.google.com</string>
+
+    <!--Fields needed to be replaced by user-->
+
+</resources>

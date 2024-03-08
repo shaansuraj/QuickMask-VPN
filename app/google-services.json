@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029921768911",
+    "project_id": "quick-mask-vpn",
+    "storage_bucket": "quick-mask-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029921768911:android:16192ad6c851ea7d16feba",
+        "android_client_info": {
+          "package_name": "com.liberty.apps.studio.libertyvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029921768911-gqm38ootnbonsctuekct55m18v6o1fns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IH9j7a_sQNYfcOj0jG-FFHrUKunHJwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029921768911-gqm38ootnbonsctuekct55m18v6o1fns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ibrahimsn98:SmoothBottomBar:1.7.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1679ec5fbcc49afeee0615be8467e3b3/transformed/jetified-SmoothBottomBar-1.7.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1679ec5fbcc49afeee0615be8467e3b3/transformed/jetified-SmoothBottomBar-1.7.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1679ec5fbcc49afeee0615be8467e3b3/transformed/jetified-SmoothBottomBar-1.7.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ibrahimsn98/SmoothBottomBar/1.7.9/581d6ad5c7d9d5fe07419a145e4818c5ab824c10/SmoothBottomBar-1.7.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
